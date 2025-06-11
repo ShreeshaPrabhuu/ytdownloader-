@@ -1,7 +1,7 @@
 // ---------- CONFIG ----------
 const BACKEND_URL = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
   ? "http://localhost:3000"
-  : "https://yt1d-backend.onrender.com"; // <- CHANGE after deploying backend
+  : "https://ytdownloader-flgk.onrender.com"; // <- CHANGE after deploying backend
 // ----------------------------
 
 const form = document.getElementById("convert-form");
